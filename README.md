@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Léon
-- 📫 How to reach me mikeleit@sport-thieme.de
+- 👋  Hi, I’m Léon
 
 <!---
 mikeleit/mikeleit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
